@@ -7,6 +7,25 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+#  🙋 Hello
+
+<table>
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;大家好，我是林河。</p>
+<p>&emsp;&emsp;热爱编程、写作、读书。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;希望这个世界能够能加美好，没有战争、贫穷、落后。</p>
+</td></tr>
+
+<tr>
+<td>
+
 ## 💪 技术栈<br/>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
