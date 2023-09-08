@@ -15,7 +15,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://th.bing.com/th/id/OIP.WCIZap3Y445n1vkaZ1eGrQHaEK?pid=ImgDet&rs=1" />
 
 <p>&emsp;&emsp;大家好，我是林河。</p>
 <p>&emsp;&emsp;热爱编程、写作、读书。</p>
