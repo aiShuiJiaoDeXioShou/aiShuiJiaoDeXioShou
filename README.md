@@ -70,5 +70,3 @@
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=aiShuiJiaoDeXioShou&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiShuiJiaoDeXioShou"/> </div>
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
